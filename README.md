@@ -32,3 +32,6 @@ You will see at the top of the main code there will be two constants, *XMLPATH* 
                 </updateinfo>
         </Info>
 
+The information you will need to put in yourself is:
+- The location names
+- 
