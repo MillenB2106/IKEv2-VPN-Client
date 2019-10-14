@@ -42,8 +42,8 @@ namespace VPN
 
         XmlDocument xdoc = new XmlDocument();
         // Static paths to get information
-        public const string XMLPATH = "https://onedrive.live.com/download?cid=9C9DDDE6D9BD35B0&resid=9C9DDDE6D9BD35B0%21944&authkey=AJqmMJB6eXEV0oY";
-        public const string BACKUPXMLPATH = "https://onedrive.live.com/download?cid=9C9DDDE6D9BD35B0&resid=9C9DDDE6D9BD35B0%211751&authkey=AM6XRF7v8OmaBIE";
+        public const string XMLPATH = ""; // The link to your XML document goes here
+        public const string BACKUPXMLPATH = ""; // The link to your backup XML document goes here
 
         // Default messages
         const string CONNAME = "VPN IKEv2";
