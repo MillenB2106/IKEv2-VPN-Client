@@ -1,5 +1,5 @@
 # IKEv2-VPN-Client
-A Client which allows you to choose and connect to multiple servers from an XML document
+A Client which allows you to choose and connect to IKEv2 servers from an XML document
 
 This client makes use of:
         DotRas by winnster: https://github.com/winnster/DotRas
