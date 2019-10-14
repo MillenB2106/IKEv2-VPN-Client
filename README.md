@@ -34,4 +34,11 @@ You will see at the top of the main code there will be two constants, *XMLPATH* 
 
 The information you will need to put in yourself is:
 - The location names
-- 
+- The Closest server to the end server for ICMP purposes
+- The IP of each server in each location
+- The VPN User name
+- The VPN Password
+- the path to a custom .pbk file for those who are using windows 7
+- The current version of the software if you have changed it up yourself
+- The update url for an update package if you wish
+
