@@ -13,11 +13,11 @@ You will see at the top of the main code there will be two constants, *XMLPATH* 
 
         <?xml version="1.0" encoding="UTF-8"?>
         <Info>
-                <location country="Country name">
+                <location country="Location name">
                         <PING>127.0.0.1</PING>
                         <IP>198.168.0.1</IP>
                 </location>
-                <location country="Canada">
+                <location country="Location name">
                         <PING>127.0.0.1</PING>
                         <IP>198.168.0.1</IP>
                 </location>
